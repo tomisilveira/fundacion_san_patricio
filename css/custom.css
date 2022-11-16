@@ -187,6 +187,16 @@ iframe
     background-position: center;
     background-size: cover;
 }
+@media (max-width: 514px) {
+
+    #wrapper
+{
+    background: url(../img/soldadura_mobile.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+}
 #overlay-1
 {
     background-color: rgba(40, 40, 40, 0.6);
